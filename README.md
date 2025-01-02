@@ -1373,9 +1373,6 @@ if (timeout > 0){
 ```
 <sup> 
 
-In progress
-
-For the complete code, please refer to the following link: [SuperGlassMakerPlugin](https://github.com/Ethan-Vann/EthanVannPlugins/tree/master/src/main/java/com/example/superglass) 
 
 </sup>
 
@@ -1401,11 +1398,6 @@ In progress
 <br><br>Mixin files and hooks enable developers to enhance the functionality of the RuneLite client. They allow access to specific game information and support more complex operations. In cases where RuneLite doesn't provide built-in hooks for certain gamepack methods, developers can utilize mixins and hooks to interact with them and achieve their desired goals. This flexibility empowers developers to customize and improve the RuneLite client to suit their needs.
 >"</i>
 >
-> -- <cite>[SkylerMiner](#SkylerMiner) 7/18/2023</cite>
-
-<sup>
-In Progress
-</sup>
 
 ---
 
@@ -1434,75 +1426,3 @@ in progress
 </sub>
 
 
----
-
-# TODO:
-
-- [ ] Extend Section 3
-- [ ] More Examples
-- [ ] Resources
-
----
-
-# Credits
-#### [EthanVann](https://github.com/Ethan-Vann)
-
-#### [Kotori](https://github.com/OreoCupcakes)
-
-#### [SkylerMiner](https://github.com/SkylerPIlot)
-#### [Bilbo](https://www.youtube.com/watch?v=Z65DM37RhyY)
-#### [Cago](https://github.com/CagoThaPlug)
-
----
-
-## Additional Resources
-
-For additional resources, references, and ongoing community support, check out the following:
-
-### Repos of Interest 
-
-- EthanVann Forks
-    - [PiggyPlugins](https://github.com/0Hutch/PiggyPlugins)
-    - [ImpactPlugins](https://github.com/moneyprinterbrrr/ImpactPlugins)
-    - [Oluiscabral](https://github.com/oluiscabral/runescape-plugins)
-    - [RuneBotEVP](https://github.com/KALE1111/RuneBotEVP)
-    - [KatAnalPlug](https://github.com/PaJauKat/KatAnalPlug)
-
-<br>
-
-<sup> Want to add to the List? Submit a PR or DM me on Discord! </sup>
-
----
-
-## Contact Info
-
-- Discord: .zalc (User ID: 242837834120036353)
-- Discord: cagomyre (User ID: 1072925304982614138)
-- Discord: bilbomyre (User ID: 693075521051033602)
-
-I only have these 2 discord I will never PM you from another. <br> If you get a PM from someone claiming to be me, it is not me.
-
-Same goes for Bilbo's discord.
-
----
-
-Want to give a thanks?
-<br>
-<br>
-[![coinbase](https://img.shields.io/badge/Donate-Coinbase-blue.svg)](https://commerce.coinbase.com/checkout/57579fb4-002e-4a2a-a4a3-a1cf523c2dfd)
-
----
-
-[![CagoThaPlug - LEECH](https://img.shields.io/static/v1?label=CagoThaPlug&message=LEECH&color=grey&logo=github)](https://github.com/CagoThaPlug/LEECH "Go to GitHub repo")
-![](https://komarev.com/ghpvc/?username=CagoThaPlug&label=PROFILEVIEWS)
-![License](https://img.shields.io/badge/License-BSD--3--Clause_license-grey)
-
-<br>
-    
-![stars - LEECH](https://img.shields.io/github/stars/CagoThaPlug/LEECH?style=social)
-![forks - LEECH](https://img.shields.io/github/forks/CagoThaPlug/LEECH?style=social)
-
-
-<sup>[Back to Top](#table-of-contents)</sup>
-
----
