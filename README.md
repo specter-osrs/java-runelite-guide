@@ -1,48 +1,10 @@
 # Comprehensive Guide to Learning Java and Writing RuneLite Plugins
 
-
-
 ---
 
-
-Welcome to the Comprehensive Guide to Learning Java and Writing RuneLite Plugins! This guide is designed to provide you with a solid foundation in Java programming and help you get started with developing plugins for the RuneLite client. Whether you're a beginner or have some programming experience, this guide will walk you through the essentials and provide you with examples and resources to enhance your learning.
+Welcome to the Comprehensive Guide to Learning Java and Writing RuneLite Plugins!
 <br></br>
 
-<a href="https://discord.gg/ehvSsj24cn">
-  <img src="https://cdn.discordapp.com/icons/1096562449009872939/5aaf8eb1a5562cbc8eabee2967887a89.webp?size=100" alt="Discord Logo" width="12%" height="12%">
-</a>
-
-[Join The Myre discord server](https://discord.gg/ehvSsj24cn)
-
-## Table of Contents
-
-- [Section 1: Java Fundamentals](#section-1-java-fundamentals)
-  - [1.1 Understanding Java](#11-understanding-java)
-  - [1.2 Setting up the Development Environment](#12-setting-up-the-development-environment)
-  - [1.3 Basics of Java Syntax](#13-basics-of-java-syntax)
-  - [1.4 Object-Oriented Programming (OOP)](#14-object-oriented-programming-oop)
-  - [1.5 Exception Handling](#15-exception-handling)
-  - [1.6 Multi Threading](#16-multi-threading)
-
-- [Section 2: RuneLite Plugin Development](#section-2-RuneLite-plugin-development)
-  - [2.1 Introduction to RuneLite](#21-introduction-to-RuneLite)
-  - [2.2 Setting up the Development Environment](#22-setting-up-the-development-environment)
-  - [2.3 Creating Your First RuneLite Plugin](#23-creating-your-first-RuneLite-plugin)
-  - [2.4 Interacting with the RuneScape Game Client](#24-interacting-with-the-runescape-game-client)
-  - [2.5 Advanced Plugin Features](#25-advanced-plugin-features)
-
-- [Section 3: External Plugin Informative](#section-3-external-plugin-informative)
-  - [3.1 External Plugin Warning](#31-external-plugin-warning)
-  - [3.2 EthanVann Plugin API](#32-ethanvann-plugin-api)
-  - [3.3 Kotori Plugin Loader](#33-kotori-plugin-loader)
-  - [3.4 Game Pack Reflection](#34-game-pack-reflection)
-  - [3.5 Revision updates](#35-revision-updates)
-- [Credits](#credits)
-- [TODO](#todo)
-- [Additonal Resources](#additional-resources)
-- [Contact Info](#contact-info)
-
----
 
 ## Section 1: Java Fundamentals
 
